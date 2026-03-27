@@ -1,4 +1,4 @@
-## Yo wassup I'm Vansh Patel 👅
+## Yo wassup I'm Vansh 👅
 
 🎓 I'm a computer science student @ CSULB<br/>
 🔐 Learning cybersecurity (mostly blue team) through projects, write-ups, and hands-on practice —> [Follow my journey here](https://github.com/VanishedAIR/Cybersecurity-Labs-Writeups)<br/>
