@@ -1,9 +1,9 @@
-## Hi, I'm Vansh ✨
+## Yo wassup I'm Vansh Patel 👅
 
-🎓 I'm a computer science student at CSULB<br/>
+🎓 I'm a computer science student @ CSULB<br/>
 🔐 Learning cybersecurity (mostly blue team) through projects, write-ups, and hands-on practice —> [Follow my journey here](https://github.com/VanishedAIR/Cybersecurity-Labs-Writeups)<br/>
 💻 I build and document projects from university and self-learning here on GitHub<br/>
-🎨 I do front-end dev on the side
+🎨 I do front-end dev when I feel like it
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vp1020) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshp.1005@gmail.com) 
